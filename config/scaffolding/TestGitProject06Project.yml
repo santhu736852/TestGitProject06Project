@@ -16,3 +16,7 @@ services:
   packages:
   - name: WmPublic
     version: 11.1.0.0.1120
+- serviceName: pub.math:addInts
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.1120
